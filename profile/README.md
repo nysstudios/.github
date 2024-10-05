@@ -1,12 +1,10 @@
-## Hi there 👋
+# Bem-vindo à nossa organização!
 
-<!--
+Criamos soluções inovadoras para **Discord** e outras plataformas digitais. Nossa missão é desenvolver aplicações que facilitem o dia a dia, conectem pessoas e proporcionem experiências eficientes no mundo digital. 🌐
 
-**Here are some ideas to get you started:**
+### Nossa aplicação de destaque:
+[Rayssa](https://github.com/nysstudios/rayssa) - Rayssa é nosso bot para **Discord**, projetado para otimizar a gestão de servidores com funcionalidades práticas e eficientes. Ele ajuda administradores e moderadores a manterem seus servidores organizados e funcionando de maneira fluida. ⚙️💡
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Fique de olho nas nossas novidades e contribua com nossa jornada criando o futuro das interações digitais.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S814COC8)
